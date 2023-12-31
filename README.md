@@ -2,7 +2,7 @@
 
 
 
- 
+  
 # <div align="left">  AAYAAN KHURᔕHEED
 Hailing from the breathtaking landscapes of Kashmir, I harbor a profound interest in Cyber-Security and a keen fascination for Artificial Intelligence. As I traverse the digital realm, my mission is to strengthen our online fortifications and unravel the mysteries of Cyber-Security, all while delving into the captivating world of AI. <br>
 
@@ -53,6 +53,11 @@ Hailing from the breathtaking landscapes of Kashmir, I harbor a profound interes
 ### Databases
 ![MYSQL](https://img.shields.io/badge/-MYSQL-000?style=for-the-badge&logo=MYSQL) 
 ![SQLITE](https://img.shields.io/badge/-SQLITE-000?style=for-the-badge&logo=SQLITE)  
+
+
+### Security Platforms 
+![HTB](https://img.shields.io/badge/Hack%20The%20Box-9FEF00.svg?style=for-the-badge&logo=Hack-The-Box&logoColor=black)
+![Hack club](https://img.shields.io/badge/Hack%20Club-EC3750.svg?style=for-the-badge&logo=Hack-Club&logoColor=white)
 
 ### Artificial Intelligence 
 ![Worm GPT](https://img.shields.io/badge/Worm_GPT-27AE60?style=for-the-badge&logo=worm&logoColor=white)
