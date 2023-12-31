@@ -4,7 +4,7 @@
 
   
 # <div align="left">  AAYAAN KHURᔕHEED
-Hailing from the breathtaking landscapes of Kashmir, I harbor a profound interest in Cyber-Security and a keen fascination for Artificial Intelligence. As I traverse the digital realm, my mission is to strengthen our online fortifications and unravel the mysteries of Cyber-Security, all while delving into the captivating world of AI. <br>
+Hailing from the breathtaking landscapes of Kashmir, I harbor a profound interest in Cyber-Security and a keen fascination for Artificial Intelligence. As I traverse the digital realm, my mission is to strengthen our online fortifications and unravel the mysteries of Cyber-Security, all while delving into the captivating world of Artificial Intelligence. <br>
 
 
 ## Skills 🗡
