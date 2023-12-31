@@ -19,7 +19,7 @@ Hailing from the breathtaking landscapes of Kashmir, I harbor a profound interes
 - Ethical Hacking
 
 ##  Tech Stack 💻
-### Tools Proficiency
+### Tools 
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Cyborg Hawk Linux](https://img.shields.io/badge/Cyborg_Hawk_Linux-005A8D?style=for-the-badge&logo=linux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF5733?style=for-the-badge&logo=burpsuite&logoColor=white)
