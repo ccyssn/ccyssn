@@ -57,7 +57,6 @@ Hailing from the breathtaking landscapes of Kashmir, I harbor a profound interes
 
 ### Security Platforms 
 ![HTB](https://img.shields.io/badge/Hack%20The%20Box-9FEF00.svg?style=for-the-badge&logo=Hack-The-Box&logoColor=black)
-![Hack club](https://img.shields.io/badge/Hack%20Club-EC3750.svg?style=for-the-badge&logo=Hack-Club&logoColor=white)
 
 ### Artificial Intelligence 
 ![Worm GPT](https://img.shields.io/badge/Worm_GPT-27AE60?style=for-the-badge&logo=worm&logoColor=white)
